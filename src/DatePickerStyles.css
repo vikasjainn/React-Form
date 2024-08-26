@@ -1,0 +1,17 @@
+/* src/components/DatePickerStyles.css */
+.react-datepicker {
+  background-color: #fff !important; /* Ensure the background color is white */
+}
+
+.react-datepicker__header {
+  background-color: #f5f5f5; /* Optional: change the header background color */
+}
+
+.react-datepicker__day {
+  color: #000; /* Optional: change the text color */
+}
+
+.react-datepicker__day--selected {
+  background-color: #3f51b5 !important; /* Optional: change the selected day background color */
+  color: #fff !important; /* Optional: change the selected day text color */
+}
